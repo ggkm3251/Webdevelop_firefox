@@ -1,0 +1,27 @@
+table,th,td{
+    border: 2px solid blue;
+    border-collapse: collapse;
+}
+table{
+    width: 80%;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+th{
+   color: brown;
+    text-align: center;
+}
+.cars{
+    color: white;
+    background: brown;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+.fruits{
+    color: chocolate;
+    background: aqua;
+    border: 2px solid black;
+}
